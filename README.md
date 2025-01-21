@@ -22,12 +22,6 @@ Each problem in this repository follows this structure:
 4. **Optimization Tips**: Suggestions on how to make the SQL query more efficient.
 5. **Common Pitfalls**: Mistakes to watch out for.
 
-**List of Problems:**
-
-- [Problem 1 - Title](#problem-1-title)
-- [Problem 2 - Title](#problem-2-title)
-  - ... (continue listing all problems)
-
 ## How to Use
 
 - **Read the Problems**: Understand each problem's requirements.
